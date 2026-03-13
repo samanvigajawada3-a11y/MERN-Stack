@@ -1,0 +1,15 @@
+// This file can be identified the rest client tool.
+// rest client tool is the simplest tool ever.
+//  This is to test the routes from server.js file
+// Run the server to check the responses using the provided Send Request buttons.
+// GET <endpoint> connects client to the GET route. Similarl to the POST, PUT, DELETE routes.
+GET http://localhost:3000/users 
+
+### 
+POST http://localhost:3000/users
+
+###
+PUT http://localhost:3000/users
+
+### 
+DELETE http://localhost:3000/users
